@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SCP</string>
+    <string name="ulama_name">Nama Ulama</string>
+    <string name="detail">Detail</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+</resources>
